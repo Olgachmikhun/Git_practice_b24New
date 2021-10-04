@@ -8,5 +8,8 @@ public class First {
 
         // This is a ne line
         // Text doesn't matter
+
+        // Third commit
+        // More lines
     }
 }
